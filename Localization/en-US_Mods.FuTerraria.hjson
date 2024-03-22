@@ -1,0 +1,21 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	flamengo: {
+		DisplayName: Flamengo's Shield
+		Tooltip:
+			'''
+			Allows the player to dash into the enemy
+			Double tap a direction
+			'''
+	}
+
+	vasco: {
+		DisplayName: Vasco's Shield
+		Tooltip:
+			'''
+			Allows the player to dash into the enemy
+			Double tap a direction
+			'''
+	}
+}
